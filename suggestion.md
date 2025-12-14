@@ -388,8 +388,7 @@ This proposal is not just about creating new tools—it's about building the fut
 **Contact Information:**
 - **Proposal Author:** [Yasin]
 - **PX4 User Since:** [Year]
-- **Email:** [shebah2044@gmail.com]
-https://github.com/PX4_Autopilot_2026
+- **Email:** [px42025@outlook.sa  or PX42025@proton.me]
 - **Community Username:** [Yasin]
 
 **References and Supporting Materials:**
